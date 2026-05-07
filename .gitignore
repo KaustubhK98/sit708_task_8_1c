@@ -1,0 +1,24 @@
+# Android / Gradle
+.gradle/
+build/
+*/build/
+local.properties
+*.iml
+
+# Android Studio
+.idea/workspace.xml
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Mac files
+.DS_Store
+__MACOSX/
+
+# Backend secrets
+server/.env
+
+# Logs
+*.log
