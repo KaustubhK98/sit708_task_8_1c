@@ -47,7 +47,7 @@ app.post('/chat', async (req, res) => {
         systemInstruction: {
           parts: [
             {
-              text: 'You are a helpful and friendly AI chatbot inside an Android student project. Keep answers clear, simple, and concise.'
+              text: 'Keep answers clear, simple, and concise.'
             }
           ]
         },
